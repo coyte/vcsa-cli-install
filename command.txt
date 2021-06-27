@@ -1,0 +1,1 @@
+/software/VMware-VCSA-all-7.0.2-17694817/vcsa-cli-installer/lin64/vcsa-deploy install --accept-eula --acknowledge-ceip --no-ssl-certificate-verification nilab_vcsa.json
